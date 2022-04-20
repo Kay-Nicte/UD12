@@ -1,6 +1,6 @@
 # UD12
 
-Ejercicio 18. Inmuebles
+## Ejercicio 18. Inmuebles
 
 Crear un diseño entidad/relación que permita modelar un sistema que sirva para gestionar una 
 empresa que posee inmuebles. Para ello:
